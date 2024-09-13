@@ -1,0 +1,1 @@
+ Esse projeto simula a recepção de um hotel, permitindo a reserva de quartos, check-in e chek-out, e visualização dos quartos e andarem em forma de matriz. Foi desenvolvido em C++, em grupos, em 2023.
