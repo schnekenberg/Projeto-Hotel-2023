@@ -1,1 +1,9 @@
- Esse projeto simula a recepção de um hotel, permitindo a reserva de quartos, check-in e chek-out, e visualização dos quartos e andarem em forma de matriz. Foi desenvolvido em C++, em grupos, em 2023.
+ Este projeto simula a recepção de um hotel, permitindo realizar reservas de quartos, check-in, check-out e visualizar a ocupação de andares e quartos em forma de matriz. Foi desenvolvido em C++ em 2023, como parte de um trabalho em grupo.
+
+ Funcionalidades:
+- Reserva de quartos
+- Sistema de check-in e check-out
+- Visualização da ocupação dos quartos por andar
+
+Habilidades desenvolvidas:
+- Manuseamento de matrizes
